@@ -30,6 +30,8 @@ Parts
   * Enclosure 3D printed from the STLs in this repository (designed
     with Rhino 3D): With the outside surfaces facing the bed, *no
     support* is needed when FDM printing
+    
+    ![Screenshot of rendered enclosure](images/enclosure.png)
 
 
 Wiring
