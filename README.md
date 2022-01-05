@@ -27,8 +27,9 @@ Parts
   
   * 4 M2×6 screws
   
-  * Enclosure printed from the STLs in this repository (designed with
-    Rhino 3D)
+  * Enclosure 3D printed from the STLs in this repository (designed
+    with Rhino 3D): With the outside surfaces facing the bed, *no
+    support* is needed when FDM printing
 
 
 Wiring
