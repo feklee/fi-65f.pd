@@ -5,7 +5,11 @@ When traveling to Sweden, I forgot the power adapter of the my little
 Fujtsu fi-65F scanner in Berlin. So I created a replacement power
 adapter that can be supplied with USB Power Delivery.
 
-Parts:
+This power adapter can easily be adjusted for other devices.
+
+
+Parts
+=====
 
   * [EVAL-SCS001V1][1]: Board breaking out the [STUSB4500][2] USB PD
     controller
@@ -23,10 +27,14 @@ Parts:
   
   * 4 M2×6 screws
   
-  * Case printed from the STLs in this repository (designed with
+  * Enclosure printed from the STLs in this repository (designed with
     Rhino 3D)
 
-This power adapter can easily be adjusted for other devices.
+
+Wiring
+======
+
+![Annotated photo describing wiring](images/wiring.jpg)
 
 
 License
