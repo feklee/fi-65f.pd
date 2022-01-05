@@ -19,7 +19,7 @@ Parts:
   * Tensility International Corp’s [CA-2195][5]: Cable with barrel
     plug (1.7 mm ID, 4.75 mm OD, 9.5 mm depth)
     
-    Polarity: ⊖⎯⎯⎯🤆⎯⎯⎯⊕
+    Polarity: ⊖⎯⎯⎯(⋅⎯⎯⎯⊕
   
   * 4 M2×6 screws
   
