@@ -25,11 +25,11 @@ Parts
     
     Polarity: ⊖⎯⎯⎯(⋅⎯⎯⎯⊕
   
-  * 4 M2×6 screws
+  * 4 M2×6 screws (DIN 912) and M2 hex nuts (DIN 934)
   
   * Enclosure 3D printed from the STLs in this repository (designed
     with Rhino 3D): With the outside surfaces facing the bed, *no
-    support* is needed when FDM printing
+    support* is needed when FDM printing.
     
     ![Screenshot of rendered enclosure](images/enclosure.png)
 
