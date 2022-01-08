@@ -7,6 +7,8 @@ adapter that can be supplied with USB Power Delivery.
 
 This power adapter can easily be adjusted for other devices.
 
+![Photo of the assembled adapter](images/photo.jpg)
+
 
 Parts
 =====
@@ -26,12 +28,16 @@ Parts
     Polarity: ⊖⎯⎯⎯(⋅⎯⎯⎯⊕
   
   * 4 M2×6 screws (DIN 912) and M2 hex nuts (DIN 934)
-  
-  * Enclosure 3D printed from the STLs in this repository (designed
-    with Rhino 3D): With the outside surfaces facing the bed, *no
-    support* is needed when FDM printing.
+
+
+Enclosure
+=========
+
+The enclosure has been designed with Rhino 3D and exported to STL.
+With the top and bottom surfaces facing the bed, *no support* is
+needed when FDM printing.
     
-    ![Screenshot of rendered enclosure](images/enclosure.png)
+![Screenshot of rendered enclosure](images/model.png)
 
 
 Wiring
